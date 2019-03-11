@@ -1,5 +1,5 @@
 module.exports = {
-  dest: '.vuepress/dist',
+  base:'/blog/',
   title: "草丛迷了鹿",
   description: "不务正业程序员",
   themeConfig: {
