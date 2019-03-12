@@ -15,6 +15,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:signyx/blog.git master:gh-pages
+git push -f https://github.com/SignYx/blog.git master:gh-pages
 
 cd -
